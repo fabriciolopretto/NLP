@@ -92,5 +92,5 @@ Fabricio Lopretto (a1616) <img src="https://raw.githubusercontent.com/iampavanga
 
 ## **Contacto:**
 Para dudas o sugerencias, contacto en:
-<a href="fabriciolopretto@gmail.com.ar"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a> 
-<a href="https://www.linkedin.com/in/fabricio-lopretto-scientific-analyst/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
+<a href="fabriciolopretto@gmail.com.ar"><img alt="Email" src="https://img.shields.io/badge/Gmail-fabriciolopretto@gmail.com-blue?style=flat-square&logo=gmail"></a> 
+<a href="https://www.linkedin.com/in/fabricio-lopretto-scientific-analyst/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lopretto-blue?style=flat-square&logo=linkedin"></a>
