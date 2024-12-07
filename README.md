@@ -10,9 +10,10 @@ Este proyecto tiene como objetivo mostrar la resolución de los desafíos evalua
 2. [Desafíos](#desafíos)
 3. [Características](#características)  
 4. [Instalación](#instalación)  
-5. [Créditos](#créditos)  
-6. [Alumno](#alumno) 
-7. [Contacto](#contacto)   
+5. [Créditos](#créditos)
+6. [Docente](#docente)
+7. [Alumno](#alumno) 
+8. [Contacto](#contacto)   
 
 ---
 
