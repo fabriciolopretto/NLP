@@ -1,4 +1,4 @@
-# **NLP**
+# **NLP 🗣️** 
 ![Banner del Proyecto](banner.jpg)
 
 Este proyecto tiene como objetivo mostrar la resolución de los desafíos evaluatorios de la materia Procesamiento de Lenguaje Natural, del Posgrado Carrera de Especialización en Inteligencia Artificial, del Laboratorio de Sistemas Embebidos, de la Facultad de Ingeniería de la Universidad de Buenos Aires, realizados durante el quinto bimestre de cursada del año 2024.
